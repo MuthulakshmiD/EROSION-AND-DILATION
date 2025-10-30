@@ -85,6 +85,9 @@ Experiment with different kernel shapes (rectangular, elliptical, cross).
 ##👨‍💻 Author
 
 Project Title: Erosion and Dilation
+
 Created By: Muthulakshmi D
+
 Tools Used: Python, OpenCV
+
 Purpose: Educational project for image processing understanding
